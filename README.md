@@ -1,7 +1,7 @@
 ## M4A to MP3 Converter
 CLI audio format conversion tool from "any format" to MP3. This works well for my downloaded M4a music albums
 
- ### This is useful for music players that do not support the Apple M4A format
+This is useful for music players that do not support the Apple M4A format
 
 > This script depends on [pydub music library](https://github.com/jiaaro/pydub)
 
